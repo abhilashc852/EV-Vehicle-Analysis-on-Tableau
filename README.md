@@ -1,8 +1,9 @@
 # EV-Vehicle-Analysis-on-Tableau
 **Analysis of Electric Vehicle (EV) Models Offered by Major Companies in Washington State Until 2023 Based on Tableau Software**
+
 This project aims to conduct a comprehensive analysis of electric vehicle (EV) models offered by major automotive companies in Washington State until the year 2023. The analysis will delve into the variety of EV models available, market trends, consumer preferences, and challenges faced by the EV market in the region.
 
-#Key Objectives:
+# Key Objectives:
 **Data Collection:** Gather information on EV models offered by major automotive manufacturers operating in Washington State until 2023.
 
 **Market Trends Analysis:** Identify and analyze trends in the EV market, including sales growth, model preferences, and technological advancements.
